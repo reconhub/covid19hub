@@ -1,4 +1,4 @@
-# RECON COVID-19 Hub
+## RECON COVID-19 Hub
 
 Welcome to the *RECON COVID-19 hub*, a platform for improving COVID-19 analytics
 resources in R by bringing together infectious disease modellers,
@@ -18,7 +18,7 @@ will indicate, among other things, the expected skill level and time investment
 required to complete it. Click on a task for more information and post a 
 comment if you have any questions, ideas or discussion points.
 
-### Listing a new task
+### Creating a new task
 List a new task by clicking on the "New issue" button; please makes sure you
 have looked through existings tasks to avoid duplications. We recommend using our 
 [template issue](https://github.com/reconhub/covid19hub/issues/1) to describe new 
@@ -64,7 +64,7 @@ task by clicking on "Assignees" button on the right hand side. You can get in
 contact with the task organiser by posting a comment and then get started!
 
 
-## Contact
+### Contact
 Please contact us with questions, comments or ideas for improvement at
 repidemicsconsortium@gmail.com. For suggested changes or feedback on this 
 project, feel free to use the issue system using the label *internal*.
