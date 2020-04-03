@@ -1,12 +1,12 @@
 # RECON COVID-19 Hub
 
-Welcome to the RECON COVID-19 hub, a platform for improving COVID-19 analytics
+Welcome to the *RECON COVID-19 hub*, a platform for improving COVID-19 analytics
 resources in R by bringing together infectious disease modellers,
-epidemiologists and advanced R users. This platform is intended as a repository
+epidemiologists and R developers. This platform is intended as a repository
 for identifying and centralising outstanding R development tasks relevant to the
 COVID-19 response, which can then be taken on by the wider R community.
 
-This github page is a temporary platform while a fully fledged website is under
+This github page is a *temporary platform* while a fully fledged website is under
 development; please read the instructions below on how to use it. You will
 require a github account to list new tasks.
 
