@@ -26,12 +26,16 @@ should include the following:
 * **Title:** A concise, informative title
 * **Description:** A clear overview of the task which provides context,
   identifies key problems and specifies the work to be done
-* **Difficulty:** Indicate the skill level (low, medium, high) required to
+* **Difficulty:** Indicate the *perceived* amount of work (low, medium, high) required to
   complete this task using the appropriate label
-* **Time investment:** Indicate the time investment (low, medium, high) required
-  to complete this task using the appropriate label
-* Assignees (optional): If you have specific people mind for your task, assign
-  them using the "Assignees" buttom on the right hand side
+* **Priority:** Indicate the *perceived* priority (low, medium, high) of the task using 
+  the appropriate label
+* **Focal point:** Indicate the person to contact to discuss this task, ideally through a 
+  github user name.
+* **Assignees (optional)**: If you have specific people in mind for your task, feel free to 
+  tag them in the issue, but refrain for directly assigning people unless they previously 
+  agreed upon; people can assign themselves using the "Assignees" button on the right hand
+  side
 
 
 ### Taking on a task
@@ -42,4 +46,7 @@ contact with the task organiser by posting a comment and then get started!
 
 ## Contact
 Please contact us with questions, comments or ideas for improvement at
-repidemicsconsortium@gmail.com.
+repidemicsconsortium@gmail.com. For suggested changes or feedback on this 
+project, feel free to use the issue system using the label *internal*.
+
+
