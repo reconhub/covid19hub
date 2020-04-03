@@ -13,7 +13,7 @@ require a github account to list new tasks.
 ### Tasks
 All tasks are listed as separate issues on
 the [Issues page](https://github.com/reconhub/covid19hub/issues). Tasks are
-categorised using labels and will indicate, among other things, the expected
+categorised using [labels]() and will indicate, among other things, the expected
 skill level and time investment required to complete it. Click on a task for
 more information and post a comment if you have any questions, ideas or
 discussion points.
