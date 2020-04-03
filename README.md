@@ -20,9 +20,11 @@ comment if you have any questions, ideas or discussion points.
 
 ### Listing a new task
 List a new task by clicking on the "New issue" button; please makes sure you
-have looked through existings tasks to avoid duplications. Each task listing
-should include the following: 
+have looked through existings tasks to avoid duplications. We recommend using our 
+[template issue](https://github.com/reconhub/covid19hub/issues/1) to describe new 
+tasks. Each task should include the following: 
 
+#### Text content
 * **Title:** A concise, informative title
 * **Description:** A clear overview of the task which provides context,
   identifies key problems and specifies the work to be done, with itemized by 
@@ -32,10 +34,21 @@ should include the following:
 * **Timeline:** A proposed timeline for the work
 * **Focal point:** Indicate the person to contact to discuss this task, ideally through a 
   github user name.
-* **Difficulty:** Indicate the *perceived* amount of work (low, medium, high) required to
-  complete this task using the appropriate label
+
+#### Labels
+* **Complexity:** Indicate the *perceived* amount of work (low, medium, high) required to
+  complete this task using the appropriate label:
+    + *low complexity:* Can be completed by 1 person in a few hours.
+    + *medium complexity:* Can be completed by 1 person in a few (<5) days.
+    + *high complexity:* Requires multiple people and/or specialists to complete.
 * **Priority:** Indicate the *perceived* priority (low, medium, high) of the task using 
-  the appropriate label
+  the appropriate label:
+    + *low priority:* Useful for COVID19 analytics.
+    + *medium priority:* Essential for COVID19 analytics.
+    + *high priority:* Urgent for COVID19 analytics.
+
+
+#### Assignment
 * **Assignees (optional)**: If you have specific people in mind for your task, feel free to 
   tag them in the issue, but refrain for directly assigning people unless they previously 
   agreed upon; people can assign themselves using the "Assignees" button on the right hand
