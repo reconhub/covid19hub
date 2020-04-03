@@ -25,13 +25,17 @@ should include the following:
 
 * **Title:** A concise, informative title
 * **Description:** A clear overview of the task which provides context,
-  identifies key problems and specifies the work to be done
+  identifies key problems and specifies the work to be done, with itemized by 
+  deliverables
+* **Impact**: A quick explanation of how addressing this task will help improving COVID-19 
+  analytics
+* **Timeline:** A proposed timeline for the work
+* **Focal point:** Indicate the person to contact to discuss this task, ideally through a 
+  github user name.
 * **Difficulty:** Indicate the *perceived* amount of work (low, medium, high) required to
   complete this task using the appropriate label
 * **Priority:** Indicate the *perceived* priority (low, medium, high) of the task using 
   the appropriate label
-* **Focal point:** Indicate the person to contact to discuss this task, ideally through a 
-  github user name.
 * **Assignees (optional)**: If you have specific people in mind for your task, feel free to 
   tag them in the issue, but refrain for directly assigning people unless they previously 
   agreed upon; people can assign themselves using the "Assignees" button on the right hand
