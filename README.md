@@ -1,5 +1,4 @@
 # RECON COVID-19 Hub
-### Community-driven COVID-19 analytics in R
 
 ---------------------------------------------------------------
 
@@ -42,7 +41,8 @@ If you have identified a task you would like to work on, assign yourself to the
 task by clicking on "Assignees" button on the right hand side. You can get in
 contact with the task organiser by posting a comment and then get started!
 
+---------------------------------------------------------------
 
-### Contact
+## Contact
 Please contact us with questions, comments or ideas for improvement at
 repidemicsconsortium@gmail.com.
