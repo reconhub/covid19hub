@@ -25,6 +25,8 @@ have looked through existings tasks to avoid duplications. We recommend using ou
 tasks. Each task should include the following: 
 
 #### Text content
+Use text content to describe the task. Short and clear descriptions are most likely to 
+generate interest.
 * **Title:** A concise, informative title
 * **Description:** A clear overview of the task which provides context,
   identifies key problems and specifies the work to be done, with itemized by 
@@ -36,6 +38,8 @@ tasks. Each task should include the following:
   github user name.
 
 #### Labels
+Use available [labels](https://github.com/reconhub/covid19hub/labels) to reflect the nature 
+of the task. In particular, for rating the *complexity* and the *priority* of the task.  
 * **Complexity:** Indicate the *perceived* amount of work (low, medium, high) required to
   complete this task using the appropriate label:
     + *low complexity:* Can be completed by 1 person in a few hours.
@@ -46,7 +50,6 @@ tasks. Each task should include the following:
     + *low priority:* Useful for COVID19 analytics.
     + *medium priority:* Essential for COVID19 analytics.
     + *high priority:* Urgent for COVID19 analytics.
-
 
 #### Assignment
 * **Assignees (optional)**: If you have specific people in mind for your task, feel free to 
